@@ -1,4 +1,4 @@
-![tecnical-test](https://github.com/user-attachments/assets/800b6db0-76c0-4b91-a76f-3e8e8b6cb9b3)
+![tecnical-test](https://raw.githubusercontent.com/match-sales/front-end-technical-test-september-2025/refs/heads/main/image.jpg)
 # 🧪 Desafio Técnico - Desenvolvedor Front-end Júnior
 
 Bem-vindo(a) ao nosso teste técnico! Este desafio tem como objetivo avaliar suas habilidades práticas com **React + Next.js + React Query + Tailwind + React Hook Form + Zod + ShadcnUI**.
